@@ -1,0 +1,5 @@
+1 x Arduino Nano
+3 x distance sensors https://lonelybinary.com/products/vl6180x-time-of-flight-distance-ranging-sensor-module-gy-6180 
+2 x powered wheels
+2 x unpowered wheels
+1 x battery
