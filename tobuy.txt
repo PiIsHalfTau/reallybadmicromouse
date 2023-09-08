@@ -1,5 +1,5 @@
 1 x Arduino Nano
 3 x distance sensors https://lonelybinary.com/products/vl6180x-time-of-flight-distance-ranging-sensor-module-gy-6180 
-2 x powered wheels
-2 x unpowered wheels
+2 x powered wheels https://core-electronics.com.au/feetech-1-5kg-continuous-rotation-servo-fs90r.html
+2 x unpowered wheels (or gear-connected 
 1 x battery
