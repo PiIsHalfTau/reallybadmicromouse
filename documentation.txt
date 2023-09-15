@@ -22,4 +22,6 @@ Each cell is a tuples of 4 booleans, with False representing walls and True repr
 
 
 /* add_a_location
-Input: the maze dictionary, a tuple of integers that have the locations, a list of boolean values of where the walls are (starting at the top and going clockwise) */
+Input: the maze dictionary, a tuple of integers that have the locations, 
+a list of boolean values of where the walls are (starting at the top and going clockwise).
+It will return the maze with the locations that it can go to. */
