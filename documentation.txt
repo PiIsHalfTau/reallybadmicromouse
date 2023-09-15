@@ -2,23 +2,24 @@ This is for how things will work (in the prototype python code).
 
 For every function, variable with non-standard/non-obvious data, and class, you need to explain how it works here (what it effects, i/o, etc).
 
-// General practices //
 
-/ Co-ordinates / 
+/* Co-ordinates */ 
 
+/* True/False statements for walls 
+If a wall is there, then it is FALSE.
+If you can go through (no wall), then it is TRUE. */
 
-// Data Types // 
-
-/ Micromouse Maze / 
+/* Micromouse Maze
 It is a dictionary of the following structure:
 Key = tuple of (x,y) co-ordinates (x,y starting at the top left)
 Value = list of co-ordinates that they can go to
-***IMPORTANT*** It only has values that it has gone into, therefore either go through it by places you know that you can, or use Try: Except: statements
+***IMPORTANT*** It only has values that it has gone into, therefore either go through it by places you know that you can, or use Try: Except: statements */
 
-// Functions //
-
-/ add_a_location /
-Input: the maze dictionary, a tuple of integers that have the locations, a list of boolean values of where the walls are (starting at the top and going clockwise)
+/* Known maze 
 
 
-// Classes //
+*/
+
+
+/* add_a_location
+Input: the maze dictionary, a tuple of integers that have the locations, a list of boolean values of where the walls are (starting at the top and going clockwise) */
