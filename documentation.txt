@@ -15,9 +15,9 @@ Key = tuple of (x,y) co-ordinates (x,y starting at the top left)
 Value = list of co-ordinates that they can go to
 ***IMPORTANT*** It only has values that it has gone into, therefore either go through it by places you know that you can, or use Try: Except: statements */
 
-/* Known maze 
-
-
+/* Unknown maze (for testing)
+A tuple of rows, containing tuples of columns, containing individual cells. 
+Each cell is a tuples of 4 booleans, with False representing walls and True representing no walls. 
 */
 
 
