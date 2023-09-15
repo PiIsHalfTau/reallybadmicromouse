@@ -18,8 +18,7 @@ Value = list of co-ordinates that they can go to
 // Functions //
 
 / add_a_location /
-Input: the maze dictionary, a tuple of integers that have the locations, a list of possible moves that can be done
-
+Input: the maze dictionary, a tuple of integers that have the locations, a list of boolean values of where the walls are (starting at the top and going clockwise)
 
 
 // Classes //
